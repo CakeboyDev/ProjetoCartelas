@@ -1,0 +1,145 @@
+body{
+background: #010348;
+}
+
+#main{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+#clides{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+#row{
+border-radius: 3%;
+display: flex;
+flex-direction: row;
+position: absolute;
+top: 27vh;
+left: 9vw;
+min-width: 74vw;
+min-height: 55vh;
+max-width: 74vw;
+max-height: 55vh;
+}
+
+.tendi{
+color: yellow;
+border-radius: 50%;
+background: black;
+padding-left: 10vw;
+padding-right: 10vw;
+padding: 3vw;
+position: absolute;
+top: 2vh;
+font-size: 2vw;
+}
+
+.a1{
+border: solid 1vh red;
+background: white;
+padding: 2vw;
+border-radius: 3%;
+position: absolute;
+left: 2vw;
+font-size: 1.5vw;
+}
+.a2{
+border: solid 1vh blue;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 10vw;
+font-size: 1.5vw;
+}
+
+.a3{
+border: solid 1vh yellow;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 18vw;
+font-size: 1.5vw;
+}
+.a4{
+border: solid 1vh green;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 26vw;
+font-size: 1.5vw;
+}
+.a5{
+border: solid 1vh pink;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 34vw;
+font-size: 1.5vw;
+}
+.a6{
+border: solid 1vh purple;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 42vw;
+font-size: 1.5vw;
+}
+.a7{
+border: solid 1vh brown;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 50vw;
+font-size: 1.5vw;
+}
+.a8{
+border: solid 1vh orange;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 58vw;
+font-size: 1.5vw;
+}
+.a9{
+border: solid 1vh cyan;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 66vw;
+font-size: 1.5vw;
+}
+.a10{
+border: solid 1vh black;
+  background: white;
+  padding: 2vw;
+  border-radius: 3%;
+position: absolute;
+left: 74vw;
+font-size: 1.5vw;
+}
+
+
+#b1{
+background: black;
+color: yellow;
+position: absolute;
+font-size: 1vw;
+min-width: 15vw;
+min-height: 10vh;
+max-width: 15vw;
+max-height: 10vh;
+top: 77vh;
+left: 42.5vw;
+}
